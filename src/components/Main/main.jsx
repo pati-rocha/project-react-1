@@ -1,5 +1,7 @@
+import './main.css'
 import Subtitle from "../Subtitle/subtitle"
 import Section from "../Section/Section"
+
 function Main(){
     return(
         <main className='main'>
