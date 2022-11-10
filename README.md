@@ -2,7 +2,7 @@
 
 
 ### O que é o projeto
- Projeto feito com ReactJs, trazendo uma lista de conteúdos que aprendidos no curso de front-end na Reprograma.
+ Projeto feito com ReactJs, trazendo uma lista de conteúdos aprendidos no curso de front-end na Reprograma.
 
 ### O que eu aprendi com esse projeto
 
