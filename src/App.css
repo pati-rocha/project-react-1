@@ -1,0 +1,13 @@
+#root {  
+  margin: 0 auto;
+  text-align: center;
+}
+.main {
+  margin-top:30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+body{
+  margin: 0;
+}
