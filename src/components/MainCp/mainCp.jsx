@@ -1,14 +1,14 @@
-import './main.css'
+import './mainCp.css'
 import Subtitle from "../Subtitle/subtitle"
 import Section from "../Section/Section"
 
-function Main(){
+function MainCp(){
     return(
         <main className='main'>
         <Subtitle content="Olá, sou a Pati Rocha!!"/>
         <Section 
           path="../public/pati.jpeg"
-          content="Desenvolvedora Frontend participante do Bootcamp Todas em Tech da {reprograma}.Curiosa legítima e apreciadora de tecnologia invisto no aprendizado contínuo como forma de aprimorar meus conhecimentos iniciados de forma autônoma.Tenho como objetivo me tornar desenvolvedora especialista com uma pitada generalista.
+          content="Desenvolvedora Frontend participante do Bootcamp Todas em Tech da {reprograma}. Curiosa legítima e apreciadora de tecnologia invisto no aprendizado contínuo como forma de aprimorar meus conhecimentos iniciados de forma autônoma.Tenho como objetivo me tornar desenvolvedora especialista com uma pitada generalista.
           "/>
   
           <Subtitle content="Git"/>
@@ -40,4 +40,4 @@ function Main(){
 
     )
 }
-export default Main
+export default MainCp

@@ -1,6 +1,6 @@
 import './App.css'
 import {Header} from './components/Header/header'
-import Main from './components/Main/main'
+import Main from './components/MainCp/mainCp'
 import Footer from './components/Footer/footer'
 
 
