@@ -14,8 +14,7 @@
 ### 💻 Tecnologias usadas
 
  * Vite - Uma ferramenta de construção que foi inicialmente desenvolvida para Vue. js. Com a nova atualização, o Vite agora oferece suporte à maioria das estruturas da web. O Vite fornece código-fonte em ESM nativo .
- * NPM - Uma gerenciador de pacotes para o Node.JS npm, Inc. é uma subsidiária do GitHub, que fornece hospedagem para desenvolvimento de software e controle de versão com o uso do Git. npm é o gerenciador de pacotes padrão para o ambiente de tempo de execução JavaScript Node.js.
- *ReactJS
+ * NPM - Um gerenciador de pacotes padrão para o ambiente de tempo de execução JavaScript Node.js. Ele consiste em linha de comando e um banco de dados online de pacotes públicos e privados pagos, chamado de registro npm.
  
 #### 📝 Passo a passo de como rodar esse projeto localmente
 
